@@ -1,4 +1,4 @@
-package İkinciGünÖdev;
+package Ä°kinciGÃ¼nÃ–dev;
 
 public class Main {
 
@@ -8,34 +8,34 @@ public class Main {
 		
 		Course course1 = new Course (
 				1,
-				"Programlamaya Giriş İçin Temel Kurs ( PYTHON )",
-				"Engin DEMİROĞ",
-				"Canlı ders, canlı derse ömür boyu erişim, ders sonu ödevler ve Linkedln'da paylaşılarak iş bulabilme.",
-				"BELEŞ"
+				"Programlamaya GiriÃ¾ ÃÃ§in Temel Kurs ( PYTHON )",
+				"Engin DEMÃROÃ",
+				"CanlÃ½ ders, canlÃ½ derse Ã¶mÃ¼r boyu eriÃ¾im, ders sonu Ã¶devler ve Linkedln'da paylaÃ¾Ã½larak iÃ¾ bulabilme.",
+				"BELEÃ"
 				);
 		//lesson1.id = 1;
-		//lesson1.name = "Yazılım Geliştirici Yetiştirme Kampı ( C# + ANGULAR )";
-		//lesson1.teacher ="Engin DEMİROĞ";
-		//lesson1.detail = "Canlı ders, canlı derse ömür boyu erişim, ders sonu ödevler ve Linkedln'da paylaşılarak iş bulabilme.";
-		//lesson1.unitPrice = "BELEŞ";
+		//lesson1.name = "YazÃ½lÃ½m GeliÃ¾tirici YetiÃ¾tirme KampÃ½ ( C# + ANGULAR )";
+		//lesson1.teacher ="Engin DEMÃROÃ";
+		//lesson1.detail = "CanlÃ½ ders, canlÃ½ derse Ã¶mÃ¼r boyu eriÃ¾im, ders sonu Ã¶devler ve Linkedln'da paylaÃ¾Ã½larak iÃ¾ bulabilme.";
+		//lesson1.unitPrice = "BELEÃ";
 		
 		
 		Course course2 = new Course (
 				2,
-				"Yazılım Geliştirici Yetiştirme Kampı ( C# + ANGULAR )",
-				"Engin DEMİROĞ",
-				"Canlı ders, canlı derse ömür boyu erişim, ders sonu ödevler ve Linkedln'da paylaşılarak iş bulabilme.",
-				"BELEŞ"
+				"YazÃ½lÃ½m GeliÃ¾tirici YetiÃ¾tirme KampÃ½ ( C# + ANGULAR )",
+				"Engin DEMÃROÃ",
+				"CanlÃ½ ders, canlÃ½ derse Ã¶mÃ¼r boyu eriÃ¾im, ders sonu Ã¶devler ve Linkedln'da paylaÃ¾Ã½larak iÃ¾ bulabilme.",
+				"BELEÃ"
 				
 				);
 		
 		
 		Course course3 = new Course (
 				3,
-				"Yazılım Geliştirici Yetiştirme Kampı ( JAVA + REACT )",
-				"Engin DEMİROĞ",
-				"Canlı ders, canlı derse ömür boyu erişim, meslek hakkında detaylar, gün sonu ödevleri ve Linkedln'da paylaşılarak iş bulabilme.",
-				"BELEŞ"
+				"YazÃ½lÃ½m GeliÃ¾tirici YetiÃ¾tirme KampÃ½ ( JAVA + REACT )",
+				"Engin DEMÃROÃ",
+				"CanlÃ½ ders, canlÃ½ derse Ã¶mÃ¼r boyu eriÃ¾im, meslek hakkÃ½nda detaylar, gÃ¼n sonu Ã¶devleri ve Linkedln'da paylaÃ¾Ã½larak iÃ¾ bulabilme.",
+				"BELEÃ"
 				);
 		
 		
