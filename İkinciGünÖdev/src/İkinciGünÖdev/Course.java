@@ -1,4 +1,4 @@
-package İkinciGünÖdev;
+package Ä°kinciGÃ¼nÃ–dev;
 
 public class Course {
 	
