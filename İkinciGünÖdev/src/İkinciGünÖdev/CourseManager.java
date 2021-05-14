@@ -1,11 +1,11 @@
-package İkinciGünÖdev;
+package Ä°kinciGÃ¼nÃ–dev;
 
 public class CourseManager {
 	public void register (Course course) {
-		System.out.println("Katılınılan Kurs : "+course.name);
-		System.out.println("Eğitmen : " + course.teacher);
+		System.out.println("KatÃ½lÃ½nÃ½lan Kurs : "+course.name);
+		System.out.println("EÃ°itmen : " + course.teacher);
 		System.out.println("Detay : " + course.detail);
-		System.out.println("Ücret : " + course.unitPrice);
+		System.out.println("Ãœcret : " + course.unitPrice);
 
 	}	
 }
