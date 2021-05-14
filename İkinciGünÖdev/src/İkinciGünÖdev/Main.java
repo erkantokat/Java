@@ -8,9 +8,9 @@ public class Main {
 		
 		Course course1 = new Course (
 				1,
-				"Programlamaya Giriþ Ýçin Temel Kurs ( PYTHON )",
+				"Programlamaya Giriþ İçin Temel Kurs ( PYTHON )",
 				"Engin DEMÝROÐ",
-				"Canlý ders, canlý derse ömür boyu eriþim, ders sonu ödevler ve Linkedln'da paylaþýlarak iþ bulabilme.",
+				"Canlı ders, canlı derse ömür boyu eriþim, ders sonu ödevler ve Linkedln'da paylaþýlarak iş bulabilme imkanı sağlar.",
 				"BELEÞ"
 				);
 		//lesson1.id = 1;
